@@ -1,4 +1,0 @@
-MatchingEngine
-==============
-
-Bitcoin Matching Engine
